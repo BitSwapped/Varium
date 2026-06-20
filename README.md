@@ -28,6 +28,8 @@ aims for a rich, immersive feel without relying on neon colors, glossy effects, 
 Because it's built entirely in OKLCH, the colors are perceptually uniform, keeping contrast and
 brightness consistent across the entire palette.
 
+*Every part of this project — the OKLCH palette, the logo, and the documentation — was built through AI-assisted iteration, directed and refined toward a specific design vision. Primarily a personal project; issues and PRs are welcome, but responses may be slow.*
+
 ---
 
 ## ✦ Philosophy
@@ -115,7 +117,9 @@ Varium organizes visual meaning by **temperature**, not category:
 Current and planned ports:
 
 * [Neovim](https://github.com/BitSwapped/varium.nvim)
+* VSCode
 * Terminal Emulators
+* Hyprland
 * GTK
 * Qt
 
